@@ -452,4 +452,4 @@ public void ouput() {
     System.out.println("-------------------LL1预测分析表-------------------");
 }
 }
-
+System.out.print
